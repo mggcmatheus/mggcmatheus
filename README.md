@@ -41,4 +41,3 @@
 <img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
