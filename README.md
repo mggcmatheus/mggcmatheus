@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! “Quando tem noção de que nada importa, o universo é seu"</h2>
+<h3 align="left">“Quando tem noção de que nada importa, o universo é seu"</h3>
 
 ###
 
